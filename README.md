@@ -10,6 +10,14 @@
 <p align="center">Welcome to my GitHub profile.
   <br>
   Please look around and contact me if you needed.
+
+  <br>
+  <br>
+  <br>
+
+  <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
+  &nbsp;
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="58">
 </p>
 
 <br>
