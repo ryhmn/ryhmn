@@ -17,7 +17,7 @@
 <!-- Skills -->
 <h2 align="center">Skills & Tools</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <br>
@@ -25,12 +25,12 @@
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryhmn&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 
   <br>
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhmn&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <!-- GitHub Contributions Graph
@@ -72,6 +72,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ryhmn" alt="Profile Views">
 </p>
 
