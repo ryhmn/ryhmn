@@ -15,6 +15,8 @@
   <br>
   <br>
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40">
+  &nbsp;
   <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
   &nbsp;
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="58">
@@ -23,7 +25,7 @@
 <br>
 
 <!-- Skills -->
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
 </p>
