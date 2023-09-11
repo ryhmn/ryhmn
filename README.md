@@ -14,12 +14,12 @@
   <br>
   <br>
   <br>
-
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40">
   &nbsp;
   <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
   &nbsp;
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="58">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60">
 </p>
 
 <br>
@@ -64,8 +64,8 @@
 <!-- Contact -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dary-rahman-0727b4209/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dary Rahman-blue" alt="LinkedIn">
+  <a href="https://www.instagram.com/dary_rahman/">
+    <img src="https://img.shields.io/badge/dary_rahman-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <!--
   <a href="https://www.linkedin.com/in/dary-rahman-0727b4209/">
@@ -76,7 +76,7 @@
   </a>
   -->
   <a href="https://www.instagram.com/dary_rahman/">
-    <img src="https://img.shields.io/badge/Instagram-@dary_rahman-pink" alt="Instagram">
+    <img src="https://img.shields.io/badge/@dary_rahman-red?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
