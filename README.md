@@ -27,7 +27,7 @@
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <br>
@@ -40,7 +40,7 @@
   <br>
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhmn&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=ryhmn&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <!-- GitHub Contributions Graph
