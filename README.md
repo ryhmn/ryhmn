@@ -35,12 +35,12 @@
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryhmn&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryhmn&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 
   <br>
   <br>
   
-  <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=ryhmn&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhmn&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <!-- GitHub Contributions Graph
