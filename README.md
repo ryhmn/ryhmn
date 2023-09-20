@@ -23,14 +23,13 @@
   &nbsp;
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="45">
   &nbsp;
-<!--   <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="Tailwind CSS" width="45"> -->
   <img src="https://www.sotatek.com/wp-content/uploads/2021/04/Tailwinds-CSS-1024x1024.png" alt="Tailwind CSS" width="40">
 </p>
 
 <br>
 
 <!-- Skills -->
-<h2 align="center">Skills</h2>
+<h2 align="center">Used Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
 </p>
