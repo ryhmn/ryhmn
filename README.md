@@ -19,8 +19,8 @@
   &nbsp;
   <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
   &nbsp;
-<!--   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="55">
-  &nbsp; -->
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="55">
+  &nbsp;
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="45">
   &nbsp;
   <img src="https://www.sotatek.com/wp-content/uploads/2021/04/Tailwinds-CSS-1024x1024.png" alt="Tailwind CSS" width="40">
