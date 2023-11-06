@@ -68,7 +68,7 @@
 <!-- Contact -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://www.instagram.com/dary_rahman/">
+  <a href="https://www.linkedin.com/in/dary-rahman/">
     <img src="https://img.shields.io/badge/dary_rahman-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <!--
