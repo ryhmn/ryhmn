@@ -19,6 +19,8 @@
   &nbsp;
   <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
   &nbsp;
+  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="28">
+  &nbsp;
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="55">
   &nbsp;
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="45">
@@ -69,16 +71,8 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dary-rahman/">
-    <img src="https://img.shields.io/badge/dary_rahman-blue?logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/@dary_rahman-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <!--
-  <a href="https://www.linkedin.com/in/dary-rahman-0727b4209/">
-    <img src="https://img.shields.io/badge/Instagram-YourLinkedInProfile-blue" alt="LinkedIn">
-  </a>
-  <a href="https://www.yourwebsite.com/">
-    <img src="https://img.shields.io/badge/Website-YourWebsiteURL-blue" alt="Website">
-  </a>
-  -->
   <a href="https://www.instagram.com/dary_rahman/">
     <img src="https://img.shields.io/badge/@dary_rahman-red?logo=instagram&logoColor=white" alt="Instagram">
   </a>
