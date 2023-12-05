@@ -18,8 +18,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40">
   &nbsp;
   <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" alt="Yii" width="30">
-  &nbsp;
-  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="28">
+<!--   &nbsp;
+  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="28"> -->
   &nbsp;
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="55">
   &nbsp;
