@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryhmn&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ryhmn&theme=onedark" alt="Top Languages"> -->
 <br>
 
 <!-- GitHub Stats -->
